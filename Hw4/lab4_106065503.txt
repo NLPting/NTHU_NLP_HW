@@ -1,0 +1,1632 @@
+Error:strang
+Candidates:['strange', 'strong', 'staring', 'sprang', 'string', 'strings', 'spring', 'storing', 'strand', 'stand']
+Correction:strange
+i felt very strang->i felt very strange
+hits =1
+
+Error:brake
+Candidates:['break', 'broken', 'broke', 'brake', 'bark', 'bracket', 'baker', 'breaks', 'braced', 'barked', 'brake']
+Correction:break
+at brake time->at break time
+hits =2
+
+Error:brack
+Candidates:['black', 'back', 'branch', 'brick', 'bricks', 'breach', 'brisk', 'block', 'pack', 'backs']
+Correction:block
+when the brack was finished->when the block was finished
+hits =2
+
+Error:weanter
+Candidates:['water', 'weather', 'wanted', 'winter', 'wander', 'walter', 'venter', 'waiter', 'decanter', 'weaned']
+Correction:water
+in the weanter when it was snowing->in the water when it was snowing
+hits =2
+
+Error:gost
+Candidates:['just', 'most', 'ghost', 'got', 'cost', 'gross', 'must', 'get', 'coast', 'guest']
+Correction:most
+i thought it was a gost->i thought it was a most
+hits =2
+
+Error:expect
+Candidates:['expect', 'expects', 'aspect', 'except', 'expert', 'export', 'extent', 'experts', 'expend', 'expel']
+Correction:except
+everything expect the houses->everything except the houses
+hits =3
+
+Error:steped
+Candidates:['stepped', 'stooped', 'striped', 'stupid', 'stopped', 'shaped', 'stephen', 'stated', 'stared', 'seemed']
+Correction:stepped
+when i first steped->when i first stepped
+hits =4
+
+Error:exclation
+Candidates:['exclusion', 'excavation', 'exaltation', 'exultation', 'exudation', 'exception', 'expiation', 'elation', 'emulation', 'epilation']
+Correction:exception
+i was on an exclation->i was on an exception
+hits =4
+
+Error:noicey
+Candidates:['notice', 'noisy', 'noticed', 'noise', 'nicely', 'notices', 'voice', 'novices', 'voices', 'novice']
+Correction:noticed
+i noicey that i was on this thing->i noticed that i was on this thing
+hits =5
+
+Error:fance
+Candidates:['france', 'face', 'fancy', 'fancies', 'faces', 'fancied', 'fence', 'fiancee', 'faced', 'force']
+Correction:fence
+through the fance->through the fence
+hits =6
+
+Error:kille
+Candidates:['killed', 'kill', 'hill', 'till', 'killer', 'tilled', 'hills', 'kindle', 'kills', 'tiller']
+Correction:killed
+the hunters kille them->the hunters killed them
+hits =6
+
+Error:nerrow
+Candidates:['narrow', 'marrow', 'morrow', 'narrows', 'sorrow', 'borrow', 'neuro', 'terror', 'negro', 'furrow']
+Correction:narrow
+they kill birds with their nerrow->they kill birds with their narrow
+hits =6
+
+Error:depe
+Candidates:['deep', 'type', 'keep', 'depth', 'were', 'dip', 'weep', 'debt', 'pipe', 'kept']
+Correction:deep
+make a depe hole->make a deep hole
+hits =7
+
+Error:gardon
+Candidates:['garden', 'gardens', 'gordon', 'pardon', 'carbon', 'cordon', 'garcon', 'pardons', 'carron', 'gallon']
+Correction:garden
+to tidy up his gardon->to tidy up his garden
+hits =8
+
+Error:belu
+Candidates:['below', 'blue', 'bell', 'blew', 'ball', 'bill', 'begun', 'be', 'blur', 'well']
+Correction:blew
+the wind belu the leaves->the wind blew the leaves
+hits =9
+
+Error:mr
+Candidates:['more', 'mary', 'mr', 'mrs', 'mere', 'man', 'my', 'may', 'men', 'mark']
+Correction:more
+mr j. was very angray->more j. was very angray
+hits =9
+
+Error:leavs
+Candidates:['leaves', 'laws', 'leave', 'leads', 'legs', 'lads', 'leaps', 'loans', 'means', 'learns']
+Correction:leaves
+garden full of leavs->garden full of leaves
+hits =10
+
+Error:manger
+Candidates:['manager', 'managers', 'danger', 'managed', 'manger', 'manage', 'finger', 'dangers', 'monger', 'matter']
+Correction:manager
+talk to the manger->talk to the manager
+hits =11
+
+Error:aero
+Candidates:['area', 'are', 'were', 'air', 'her', 'aaron', 'hero', 'here', 'apron', 'also']
+Correction:hero
+they throw a aero->they throw a hero
+hits =11
+
+Error:ansion
+Candidates:['union', 'action', 'unison', 'onion', 'ention', 'anton', 'anon', 'arson', 'ensign', 'angio']
+Correction:action
+an ansion method of hunting->an action method of hunting
+hits =11
+
+Precision:0.55
+FalseAlarm:0.45
+Error:strang
+Candidates:['strange', 'strong', 'staring', 'sprang', 'string', 'strings', 'spring', 'storing', 'strand', 'stand']
+Correction:strange
+i felt very strang->i felt very strange
+hits =1
+
+Error:brake
+Candidates:['break', 'broken', 'broke', 'brake', 'bark', 'bracket', 'baker', 'breaks', 'braced', 'barked', 'brake']
+Correction:break
+at brake time->at break time
+hits =2
+
+Error:brack
+Candidates:['black', 'back', 'branch', 'brick', 'bricks', 'breach', 'brisk', 'block', 'pack', 'backs']
+Correction:block
+when the brack was finished->when the block was finished
+hits =2
+
+Error:weanter
+Candidates:['water', 'wanted', 'winter', 'wander', 'weaker', 'weather', 'walter', 'venter', 'waiter', 'decanter']
+Correction:water
+in the weanter when it was snowing->in the water when it was snowing
+hits =2
+
+Error:gost
+Candidates:['just', 'most', 'ghost', 'got', 'cost', 'gross', 'must', 'coast', 'guest', 'god']
+Correction:most
+i thought it was a gost->i thought it was a most
+hits =2
+
+Error:expect
+Candidates:['expect', 'expects', 'aspect', 'except', 'expert', 'export', 'extent', 'experts', 'expend', 'expel']
+Correction:except
+everything expect the houses->everything except the houses
+hits =3
+
+Error:steped
+Candidates:['stepped', 'stooped', 'striped', 'stupid', 'stopped', 'shaped', 'steps', 'stephen', 'stated', 'stared']
+Correction:stepped
+when i first steped->when i first stepped
+hits =4
+
+Error:exclation
+Candidates:['exclusion', 'excavation', 'exaltation', 'exultation', 'exudation', 'exception', 'expiation', 'elation', 'emulation', 'epilation']
+Correction:exception
+i was on an exclation->i was on an exception
+hits =4
+
+Error:noicey
+Candidates:['notice', 'noticed', 'noise', 'nicely', 'notices', 'voice', 'novices', 'voices', 'novice', 'nice']
+Correction:noticed
+i noicey that i was on this thing->i noticed that i was on this thing
+hits =5
+
+Error:fance
+Candidates:['france', 'face', 'fancy', 'fancies', 'faces', 'fancied', 'fence', 'fiancee', 'faced', 'force']
+Correction:fence
+through the fance->through the fence
+hits =6
+
+Error:kille
+Candidates:['killed', 'kill', 'hill', 'till', 'killer', 'tilled', 'hills', 'kindle', 'kills', 'tiller']
+Correction:killed
+the hunters kille them->the hunters killed them
+hits =6
+
+Error:nerrow
+Candidates:['narrow', 'marrow', 'morrow', 'narrows', 'sorrow', 'borrow', 'neuro', 'terror', 'negro', 'furrow']
+Correction:narrow
+they kill birds with their nerrow->they kill birds with their narrow
+hits =6
+
+Error:depe
+Candidates:['deep', 'type', 'keep', 'depth', 'were', 'dip', 'weep', 'debt', 'pipe', 'kept']
+Correction:deep
+make a depe hole->make a deep hole
+hits =7
+
+Error:gardon
+Candidates:['garden', 'gardens', 'gordon', 'pardon', 'carbon', 'cordon', 'garcon', 'pardons', 'carron', 'gallon']
+Correction:garden
+to tidy up his gardon->to tidy up his garden
+hits =8
+
+Error:belu
+Candidates:['below', 'blue', 'bell', 'blew', 'ball', 'bill', 'begun', 'be', 'blur', 'well']
+Correction:blew
+the wind belu the leaves->the wind blew the leaves
+hits =9
+
+Error:mr
+Candidates:['more', 'mary', 'mr', 'mrs', 'mere', 'man', 'my', 'may', 'men', 'mark']
+Correction:more
+mr j. was very angray->more j. was very angray
+hits =9
+
+Error:leavs
+Candidates:['leaves', 'laws', 'leave', 'least', 'leads', 'legs', 'lads', 'leaps', 'loans', 'means']
+Correction:leaves
+garden full of leavs->garden full of leaves
+hits =10
+
+Error:manger
+Candidates:['manager', 'managers', 'danger', 'managed', 'manger', 'manage', 'finger', 'dangers', 'monger', 'matter']
+Correction:manager
+talk to the manger->talk to the manager
+hits =11
+
+Error:aero
+Candidates:['area', 'are', 'were', 'air', 'her', 'aaron', 'hero', 'here', 'apron', 'also']
+Correction:hero
+they throw a aero->they throw a hero
+hits =11
+
+Error:ansion
+Candidates:['union', 'action', 'unison', 'onion', 'ention', 'anton', 'anon', 'arson', 'ensign', 'angio']
+Correction:action
+an ansion method of hunting->an action method of hunting
+hits =11
+
+Precision:0.55
+FalseAlarm:0.45
+Error:strang
+Candidates:['strange', 'strong', 'staring', 'sprang', 'string', 'strings', 'spring', 'storing', 'strand', 'stand']
+Correction:strange
+i felt very strang->i felt very strange
+hits =1
+
+Error:brake
+Candidates:['break', 'broken', 'broke', 'brake', 'bark', 'bracket', 'baker', 'breaks', 'braced', 'barked', 'brake']
+Correction:break
+at brake time->at break time
+hits =2
+
+Error:brack
+Candidates:['black', 'back', 'branch', 'brick', 'bricks', 'breach', 'brisk', 'block', 'pack', 'backs']
+Correction:block
+when the brack was finished->when the block was finished
+hits =2
+
+Error:weanter
+Candidates:['water', 'wanted', 'winter', 'wander', 'weaker', 'weather', 'walter', 'venter', 'waiter', 'decanter']
+Correction:water
+in the weanter when it was snowing->in the water when it was snowing
+hits =2
+
+Error:gost
+Candidates:['just', 'most', 'ghost', 'got', 'cost', 'gross', 'must', 'coast', 'guest', 'god']
+Correction:most
+i thought it was a gost->i thought it was a most
+hits =2
+
+Error:expect
+Candidates:['expect', 'expects', 'aspect', 'except', 'expert', 'export', 'extent', 'experts', 'expend', 'expel']
+Correction:except
+everything expect the houses->everything except the houses
+hits =3
+
+Error:steped
+Candidates:['stepped', 'stooped', 'striped', 'stupid', 'stopped', 'shaped', 'steps', 'stephen', 'stated', 'stared']
+Correction:stepped
+when i first steped->when i first stepped
+hits =4
+
+Error:exclation
+Candidates:['exclusion', 'excavation', 'exaltation', 'exultation', 'exudation', 'exception', 'expiation', 'elation', 'emulation', 'epilation']
+Correction:exception
+i was on an exclation->i was on an exception
+hits =4
+
+Error:noicey
+Candidates:['notice', 'noticed', 'noise', 'nicely', 'notices', 'voice', 'novices', 'voices', 'novice', 'nice']
+Correction:noticed
+i noicey that i was on this thing->i noticed that i was on this thing
+hits =5
+
+Error:fance
+Candidates:['france', 'face', 'fancy', 'fancies', 'faces', 'fancied', 'fence', 'fiancee', 'faced', 'force']
+Correction:fence
+through the fance->through the fence
+hits =6
+
+Error:kille
+Candidates:['killed', 'kill', 'hill', 'till', 'killer', 'tilled', 'hills', 'kindle', 'kills', 'tiller']
+Correction:killed
+the hunters kille them->the hunters killed them
+hits =6
+
+Error:nerrow
+Candidates:['narrow', 'marrow', 'morrow', 'narrows', 'sorrow', 'borrow', 'neuro', 'terror', 'negro', 'furrow']
+Correction:narrow
+they kill birds with their nerrow->they kill birds with their narrow
+hits =6
+
+Error:depe
+Candidates:['deep', 'type', 'keep', 'depth', 'were', 'dip', 'weep', 'debt', 'pipe', 'kept']
+Correction:deep
+make a depe hole->make a deep hole
+hits =7
+
+Error:gardon
+Candidates:['garden', 'gardens', 'gordon', 'pardon', 'carbon', 'cordon', 'garcon', 'pardons', 'carron', 'gallon']
+Correction:garden
+to tidy up his gardon->to tidy up his garden
+hits =8
+
+Error:belu
+Candidates:['below', 'blue', 'bell', 'blew', 'ball', 'bill', 'begun', 'be', 'blur', 'well']
+Correction:blew
+the wind belu the leaves->the wind blew the leaves
+hits =9
+
+Error:mr
+Candidates:['more', 'mary', 'mr', 'mrs', 'mere', 'man', 'my', 'may', 'men', 'mark']
+Correction:more
+mr j. was very angray->more j. was very angray
+hits =9
+
+Error:leavs
+Candidates:['leaves', 'laws', 'leave', 'least', 'leads', 'legs', 'lads', 'leaps', 'loans', 'means']
+Correction:leaves
+garden full of leavs->garden full of leaves
+hits =10
+
+Error:manger
+Candidates:['manager', 'managers', 'danger', 'managed', 'manger', 'manage', 'finger', 'dangers', 'monger', 'matter']
+Correction:manager
+talk to the manger->talk to the manager
+hits =11
+
+Error:aero
+Candidates:['area', 'are', 'were', 'air', 'her', 'aaron', 'hero', 'here', 'apron', 'also']
+Correction:hero
+they throw a aero->they throw a hero
+hits =11
+
+Error:ansion
+Candidates:['union', 'action', 'unison', 'onion', 'ention', 'anton', 'anon', 'arson', 'ensign', 'angio']
+Correction:action
+an ansion method of hunting->an action method of hunting
+hits =11
+
+Precision:0.55
+FalseAlarm:0.45
+Error:strang
+Candidates:['strange', 'strong', 'staring', 'sprang', 'string', 'strings', 'spring', 'storing', 'strand', 'stand']
+Correction:strange
+i felt very strang->i felt very strange
+hits =1
+
+Error:brake
+Candidates:['break', 'broken', 'broke', 'brake', 'bark', 'bracket', 'baker', 'breaks', 'braced', 'barked', 'brake']
+Correction:break
+at brake time->at break time
+hits =2
+
+Error:brack
+Candidates:['black', 'back', 'branch', 'brick', 'bricks', 'breach', 'brisk', 'block', 'pack', 'backs']
+Correction:block
+when the brack was finished->when the block was finished
+hits =2
+
+Error:weanter
+Candidates:['water', 'wanted', 'winter', 'wander', 'weaker', 'weather', 'walter', 'venter', 'waiter', 'decanter']
+Correction:water
+in the weanter when it was snowing->in the water when it was snowing
+hits =2
+
+Error:gost
+Candidates:['just', 'most', 'ghost', 'got', 'cost', 'gross', 'must', 'coast', 'guest', 'god']
+Correction:most
+i thought it was a gost->i thought it was a most
+hits =2
+
+Error:expect
+Candidates:['expect', 'expects', 'aspect', 'except', 'expert', 'export', 'extent', 'experts', 'expend', 'expel']
+Correction:except
+everything expect the houses->everything except the houses
+hits =3
+
+Error:steped
+Candidates:['stepped', 'stooped', 'striped', 'stupid', 'stopped', 'shaped', 'steps', 'stephen', 'stated', 'stared']
+Correction:stepped
+when i first steped->when i first stepped
+hits =4
+
+Error:exclation
+Candidates:['exclusion', 'excavation', 'exaltation', 'exultation', 'exudation', 'exception', 'expiation', 'elation', 'emulation', 'epilation']
+Correction:exception
+i was on an exclation->i was on an exception
+hits =4
+
+Error:noicey
+Candidates:['notice', 'noticed', 'noise', 'nicely', 'notices', 'voice', 'novices', 'voices', 'novice', 'nice']
+Correction:noticed
+i noicey that i was on this thing->i noticed that i was on this thing
+hits =5
+
+Error:fance
+Candidates:['france', 'face', 'fancy', 'fancies', 'faces', 'fancied', 'fence', 'fiancee', 'faced', 'force']
+Correction:fence
+through the fance->through the fence
+hits =6
+
+Error:kille
+Candidates:['killed', 'kill', 'hill', 'till', 'killer', 'tilled', 'hills', 'kindle', 'kills', 'tiller']
+Correction:killed
+the hunters kille them->the hunters killed them
+hits =6
+
+Error:nerrow
+Candidates:['narrow', 'marrow', 'morrow', 'narrows', 'sorrow', 'borrow', 'neuro', 'terror', 'negro', 'furrow']
+Correction:narrow
+they kill birds with their nerrow->they kill birds with their narrow
+hits =6
+
+Error:depe
+Candidates:['deep', 'type', 'keep', 'depth', 'were', 'dip', 'weep', 'debt', 'pipe', 'kept']
+Correction:deep
+make a depe hole->make a deep hole
+hits =7
+
+Error:gardon
+Candidates:['garden', 'gardens', 'gordon', 'pardon', 'carbon', 'cordon', 'garcon', 'pardons', 'carron', 'gallon']
+Correction:garden
+to tidy up his gardon->to tidy up his garden
+hits =8
+
+Error:belu
+Candidates:['below', 'blue', 'bell', 'blew', 'ball', 'bill', 'begun', 'be', 'blur', 'well']
+Correction:blew
+the wind belu the leaves->the wind blew the leaves
+hits =9
+
+Error:j.
+Candidates:['j', 'joy', 'job', 'go', 'jug', 'to', 'he', 'jew', 'do', 'jem']
+Correction:he
+mr j. was very angray->mr he was very angray
+hits =9
+
+Error:leavs
+Candidates:['leaves', 'laws', 'leave', 'least', 'leads', 'legs', 'lads', 'leaps', 'loans', 'means']
+Correction:leaves
+garden full of leavs->garden full of leaves
+hits =10
+
+Error:manger
+Candidates:['manager', 'managers', 'danger', 'managed', 'manger', 'manage', 'finger', 'dangers', 'monger', 'matter']
+Correction:manager
+talk to the manger->talk to the manager
+hits =11
+
+Error:aero
+Candidates:['area', 'are', 'were', 'air', 'her', 'aaron', 'hero', 'here', 'apron', 'also']
+Correction:hero
+they throw a aero->they throw a hero
+hits =11
+
+Error:ansion
+Candidates:['union', 'action', 'unison', 'onion', 'ention', 'anton', 'anon', 'arson', 'ensign', 'angio']
+Correction:action
+an ansion method of hunting->an action method of hunting
+hits =11
+
+Precision:0.55
+FalseAlarm:0.45
+Error:strang
+Candidates:['strange', 'strong', 'staring', 'sprang', 'string', 'strings', 'spring', 'storing', 'strand', 'stand']
+Correction:strange
+i felt very strang->i felt very strange
+hits =1
+
+Error:brake
+Candidates:['break', 'broken', 'broke', 'brake', 'bark', 'bracket', 'baker', 'breaks', 'braced', 'barked', 'brake']
+Correction:break
+at brake time->at break time
+hits =2
+
+Error:brack
+Candidates:['black', 'back', 'branch', 'brick', 'bricks', 'breach', 'brisk', 'block', 'pack', 'backs']
+Correction:block
+when the brack was finished->when the block was finished
+hits =2
+
+Error:weanter
+Candidates:['water', 'wanted', 'winter', 'wander', 'weaker', 'weather', 'walter', 'venter', 'waiter', 'decanter']
+Correction:water
+in the weanter when it was snowing->in the water when it was snowing
+hits =2
+
+Error:gost
+Candidates:['just', 'most', 'ghost', 'got', 'cost', 'gross', 'must', 'coast', 'guest', 'god']
+Correction:most
+i thought it was a gost->i thought it was a most
+hits =2
+
+Error:expect
+Candidates:['expect', 'expects', 'aspect', 'except', 'expert', 'export', 'extent', 'experts', 'expend', 'expel']
+Correction:except
+everything expect the houses->everything except the houses
+hits =3
+
+Error:steped
+Candidates:['stepped', 'stooped', 'striped', 'stupid', 'stopped', 'shaped', 'steps', 'stephen', 'stated', 'stared']
+Correction:stepped
+when i first steped->when i first stepped
+hits =4
+
+Error:exclation
+Candidates:['exclusion', 'excavation', 'exaltation', 'exultation', 'exudation', 'exception', 'expiation', 'elation', 'emulation', 'epilation']
+Correction:exception
+i was on an exclation->i was on an exception
+hits =4
+
+Error:noicey
+Candidates:['notice', 'noticed', 'noise', 'nicely', 'notices', 'voice', 'novices', 'voices', 'novice', 'nice']
+Correction:noticed
+i noicey that i was on this thing->i noticed that i was on this thing
+hits =5
+
+Error:fance
+Candidates:['france', 'face', 'fancy', 'fancies', 'faces', 'fancied', 'fence', 'fiancee', 'faced', 'force']
+Correction:fence
+through the fance->through the fence
+hits =6
+
+Error:kille
+Candidates:['killed', 'kill', 'hill', 'till', 'killer', 'tilled', 'hills', 'kindle', 'kills', 'tiller']
+Correction:killed
+the hunters kille them->the hunters killed them
+hits =6
+
+Error:nerrow
+Candidates:['narrow', 'marrow', 'morrow', 'narrows', 'sorrow', 'borrow', 'neuro', 'terror', 'negro', 'furrow']
+Correction:narrow
+they kill birds with their nerrow->they kill birds with their narrow
+hits =6
+
+Error:depe
+Candidates:['deep', 'type', 'keep', 'depth', 'were', 'dip', 'weep', 'debt', 'pipe', 'kept']
+Correction:deep
+make a depe hole->make a deep hole
+hits =7
+
+Error:gardon
+Candidates:['garden', 'gardens', 'gordon', 'pardon', 'carbon', 'cordon', 'garcon', 'pardons', 'carron', 'gallon']
+Correction:garden
+to tidy up his gardon->to tidy up his garden
+hits =8
+
+Error:belu
+Candidates:['below', 'blue', 'bell', 'blew', 'ball', 'bill', 'begun', 'be', 'blur', 'well']
+Correction:blew
+the wind belu the leaves->the wind blew the leaves
+hits =9
+
+Error:j.
+Candidates:['j', 'joy', 'job', 'go', 'jug', 'to', 'he', 'jew', 'do', 'jem']
+Correction:he
+mr j. was very angray->mr he was very angray
+hits =9
+
+Error:leavs
+Candidates:['leaves', 'laws', 'leave', 'least', 'leads', 'legs', 'lads', 'leaps', 'loans', 'means']
+Correction:leaves
+garden full of leavs->garden full of leaves
+hits =10
+
+Error:manger
+Candidates:['manager', 'managers', 'danger', 'managed', 'manger', 'manage', 'finger', 'dangers', 'monger', 'matter']
+Correction:manager
+talk to the manger->talk to the manager
+hits =11
+
+Error:aero
+Candidates:['area', 'are', 'were', 'air', 'her', 'aaron', 'hero', 'here', 'apron', 'also']
+Correction:hero
+they throw a aero->they throw a hero
+hits =11
+
+Error:ansion
+Candidates:['union', 'action', 'unison', 'onion', 'ention', 'anton', 'anon', 'arson', 'ensign', 'angio']
+Correction:action
+an ansion method of hunting->an action method of hunting
+hits =11
+
+Precision:0.55
+FalseAlarm:0.45
+Error:strang
+Candidates:['strange', 'strong', 'staring', 'sprang', 'string', 'strings', 'spring', 'storing', 'strand', 'stand']
+Correction:strange
+i felt very strang->i felt very strange
+hits =1
+
+Precision:1.0
+FalseAlarm:0.0
+Error:strang
+Candidates:['strange', 'strong', 'staring', 'sprang', 'string', 'strings', 'spring', 'storing', 'strand', 'stand']
+Correction:strange
+i felt very strang->i felt very strange
+hits =1
+
+Precision:1.0
+FalseAlarm:0.0
+Error:strang
+Candidates:['strange', 'strong', 'staring', 'sprang', 'string', 'strings', 'spring', 'storing', 'strand', 'stand']
+Correction:strange
+i felt very strang->i felt very strange
+hits =1
+
+Precision:1.0
+FalseAlarm:0.0
+Error:very
+Candidates:['very', 'vary', 'ferry', 'were', 'weary', 'fury', 'mary', 'vewy', 'verse', 'mercy']
+Correction:very
+i felt very strang->i felt very strang
+hits =0
+
+Precision:0.0
+FalseAlarm:1.0
+Error:very
+Candidates:['very', 'vary', 'ferry', 'were', 'weary', 'fury', 'mary', 'vewy', 'verse', 'mercy']
+Correction:very
+i felt very strang->i felt very strang
+hits =0
+
+Precision:0.0
+FalseAlarm:1.0
+Error:very
+Candidates:['very', 'vary', 'ferry', 'were', 'weary', 'fury', 'mary', 'vewy', 'verse', 'mercy']
+Correction:very
+i felt very strang->i felt very strang
+hits =0
+
+Precision:0.0
+FalseAlarm:1.0
+Error:strang
+Candidates:['strange', 'strong', 'staring', 'sprang', 'string', 'strings', 'spring', 'storing', 'strand', 'stand']
+Correction:strong
+i felt very strang->i felt very strong
+hits =0
+
+Precision:0.0
+FalseAlarm:1.0
+Error:strang
+Candidates:['strange', 'strong', 'staring', 'sprang', 'string', 'strings', 'spring', 'storing', 'strand', 'stand']
+Correction:strong
+i felt very strang->i felt very strong
+hits =0
+
+Precision:0.0
+FalseAlarm:1.0
+Error:strang
+Candidates:['strange', 'strong', 'staring', 'sprang', 'string', 'strings', 'spring', 'storing', 'strand', 'stand']
+Correction:strange
+i felt very strang->i felt very strange
+hits =1
+
+Precision:1.0
+FalseAlarm:0.0
+Error:strang
+Candidates:['strange', 'strong', 'staring', 'sprang', 'string', 'strings', 'spring', 'storing', 'strand', 'stand']
+Correction:strange
+i felt very strang->i felt very strange
+hits =1
+
+Error:brake
+Candidates:['break', 'broken', 'broke', 'brake', 'bark', 'bracket', 'baker', 'breaks', 'braced', 'barked', 'brake']
+Correction:break
+at brake time->at break time
+hits =2
+
+Error:brack
+Candidates:['black', 'back', 'branch', 'brick', 'bricks', 'breach', 'brisk', 'block', 'pack', 'backs']
+Correction:block
+when the brack was finished->when the block was finished
+hits =2
+
+Error:weanter
+Candidates:['water', 'wanted', 'winter', 'wander', 'weaker', 'weather', 'walter', 'venter', 'waiter', 'decanter']
+Correction:winter
+in the weanter when it was snowing->in the winter when it was snowing
+hits =3
+
+Error:gost
+Candidates:['just', 'most', 'ghost', 'got', 'cost', 'gross', 'must', 'coast', 'guest', 'god']
+Correction:ghost
+i thought it was a gost->i thought it was a ghost
+hits =4
+
+Error:expect
+Candidates:['expect', 'expects', 'aspect', 'except', 'expert', 'export', 'extent', 'experts', 'expend', 'expel']
+Correction:except
+everything expect the houses->everything except the houses
+hits =5
+
+Error:steped
+Candidates:['stepped', 'stooped', 'striped', 'stupid', 'stopped', 'shaped', 'steps', 'stephen', 'stated', 'stared']
+Correction:stepped
+when i first steped->when i first stepped
+hits =6
+
+Error:exclation
+Candidates:['exclusion', 'excavation', 'exaltation', 'exultation', 'exudation', 'exception', 'expiation', 'elation', 'emulation', 'epilation']
+Correction:excavation
+i was on an exclation->i was on an excavation
+hits =6
+
+Error:noicey
+Candidates:['notice', 'noticed', 'noise', 'nicely', 'notices', 'voice', 'novices', 'voices', 'novice', 'nice']
+Correction:notices
+i noicey that i was on this thing->i notices that i was on this thing
+hits =6
+
+Error:fance
+Candidates:['france', 'face', 'fancy', 'fancies', 'faces', 'fancied', 'fence', 'fiancee', 'faced', 'force']
+Correction:fence
+through the fance->through the fence
+hits =7
+
+Precision:0.7
+FalseAlarm:0.3
+Error:strang
+Candidates:['strange', 'strong', 'staring', 'sprang', 'string', 'strings', 'spring', 'storing', 'strand', 'stand']
+Correction:strange
+i felt very strang->i felt very strange
+hits =1
+
+Error:brake
+Candidates:['break', 'broken', 'broke', 'brake', 'bark', 'bracket', 'baker', 'breaks', 'braced', 'barked', 'brake']
+Correction:break
+at brake time->at break time
+hits =2
+
+Error:brack
+Candidates:['black', 'back', 'branch', 'brick', 'bricks', 'breach', 'brisk', 'block', 'pack', 'backs']
+Correction:block
+when the brack was finished->when the block was finished
+hits =2
+
+Error:weanter
+Candidates:['water', 'wanted', 'winter', 'wander', 'weaker', 'weather', 'walter', 'venter', 'waiter', 'decanter']
+Correction:winter
+in the weanter when it was snowing->in the winter when it was snowing
+hits =3
+
+Error:gost
+Candidates:['just', 'most', 'ghost', 'got', 'cost', 'gross', 'must', 'coast', 'guest', 'god']
+Correction:ghost
+i thought it was a gost->i thought it was a ghost
+hits =4
+
+Error:expect
+Candidates:['expect', 'expects', 'aspect', 'except', 'expert', 'export', 'extent', 'experts', 'expend', 'expel']
+Correction:except
+everything expect the houses->everything except the houses
+hits =5
+
+Error:steped
+Candidates:['stepped', 'stooped', 'striped', 'stupid', 'stopped', 'shaped', 'steps', 'stephen', 'stated', 'stared']
+Correction:stepped
+when i first steped->when i first stepped
+hits =6
+
+Error:exclation
+Candidates:['exclusion', 'excavation', 'exaltation', 'exultation', 'exudation', 'exception', 'expiation', 'elation', 'emulation', 'epilation']
+Correction:excavation
+i was on an exclation->i was on an excavation
+hits =6
+
+Error:noicey
+Candidates:['notice', 'noticed', 'noise', 'nicely', 'notices', 'voice', 'novices', 'voices', 'novice', 'nice']
+Correction:notices
+i noicey that i was on this thing->i notices that i was on this thing
+hits =6
+
+Error:fance
+Candidates:['france', 'face', 'fancy', 'fancies', 'faces', 'fancied', 'fence', 'fiancee', 'faced', 'force']
+Correction:fence
+through the fance->through the fence
+hits =7
+
+Error:kille
+Candidates:['killed', 'kill', 'hill', 'till', 'killer', 'tilled', 'hills', 'kindle', 'kills', 'tiller']
+Correction:kill
+the hunters kille them->the hunters kill them
+hits =8
+
+Error:nerrow
+Candidates:['narrow', 'marrow', 'morrow', 'narrows', 'sorrow', 'borrow', 'neuro', 'terror', 'negro', 'furrow']
+Correction:borrow
+they kill birds with their nerrow->they kill birds with their borrow
+hits =8
+
+Error:depe
+Candidates:['deep', 'type', 'keep', 'depth', 'were', 'dip', 'weep', 'debt', 'pipe', 'kept']
+Correction:deep
+make a depe hole->make a deep hole
+hits =9
+
+Error:gardon
+Candidates:['garden', 'gardens', 'gordon', 'pardon', 'carbon', 'cordon', 'garcon', 'pardons', 'carron', 'gallon']
+Correction:gardens
+to tidy up his gardon->to tidy up his gardens
+hits =9
+
+Error:belu
+Candidates:['below', 'blue', 'bell', 'blew', 'ball', 'bill', 'begun', 'be', 'blur', 'well']
+Correction:blew
+the wind belu the leaves->the wind blew the leaves
+hits =10
+
+Error:j.
+Candidates:['j', 'joy', 'job', 'go', 'jug', 'to', 'he', 'jew', 'do', 'jem']
+Correction:j
+mr j. was very angray->mr j was very angray
+hits =10
+
+Error:leavs
+Candidates:['leaves', 'laws', 'leave', 'least', 'leads', 'legs', 'lads', 'leaps', 'loans', 'means']
+Correction:leaves
+garden full of leavs->garden full of leaves
+hits =11
+
+Error:manger
+Candidates:['manager', 'managers', 'danger', 'managed', 'manger', 'manage', 'finger', 'dangers', 'monger', 'matter']
+Correction:manger
+talk to the manger->talk to the manger
+hits =11
+
+Error:aero
+Candidates:['area', 'are', 'were', 'air', 'her', 'aaron', 'hero', 'here', 'apron', 'also']
+Correction:hero
+they throw a aero->they throw a hero
+hits =11
+
+Error:ansion
+Candidates:['union', 'action', 'unison', 'onion', 'ention', 'anton', 'anon', 'arson', 'ensign', 'angio']
+Correction:action
+an ansion method of hunting->an action method of hunting
+hits =11
+
+Precision:0.55
+FalseAlarm:0.45
+Error:strang
+Candidates:['strange', 'strong', 'staring', 'sprang', 'string']
+Correction:strange
+i felt very strang->i felt very strange
+hits =1
+
+Error:strang
+Candidates:['strange', 'strong', 'staring', 'sprang', 'string']
+Correction:strange
+i felt very strang->i felt very strange
+hits =1
+
+Error:brake
+Candidates:['break', 'broken', 'broke', 'brake', 'bark', 'brake']
+Correction:break
+at brake time->at break time
+hits =2
+
+Error:brack
+Candidates:['black', 'back', 'branch', 'brick', 'bricks']
+Correction:back
+when the brack was finished->when the back was finished
+hits =2
+
+Error:weanter
+Candidates:['water', 'wanted', 'winter', 'wander', 'weaker']
+Correction:winter
+in the weanter when it was snowing->in the winter when it was snowing
+hits =3
+
+Error:gost
+Candidates:['just', 'most', 'ghost', 'got', 'cost']
+Correction:ghost
+i thought it was a gost->i thought it was a ghost
+hits =4
+
+Error:expect
+Candidates:['expect', 'expects', 'aspect', 'except', 'expert']
+Correction:except
+everything expect the houses->everything except the houses
+hits =5
+
+Error:steped
+Candidates:['stepped', 'stooped', 'striped', 'stupid', 'stopped']
+Correction:stepped
+when i first steped->when i first stepped
+hits =6
+
+Error:exclation
+Candidates:['exclusion', 'excavation', 'exaltation', 'exultation', 'exudation']
+Correction:excavation
+i was on an exclation->i was on an excavation
+hits =6
+
+Error:noicey
+Candidates:['notice', 'noticed', 'noise', 'nicely', 'notices']
+Correction:notices
+i noicey that i was on this thing->i notices that i was on this thing
+hits =6
+
+Error:fance
+Candidates:['france', 'face', 'fancy', 'fancies', 'faces']
+Correction:fancy
+through the fance->through the fancy
+hits =6
+
+Error:kille
+Candidates:['killed', 'kill', 'hill', 'till', 'killer']
+Correction:kill
+the hunters kille them->the hunters kill them
+hits =7
+
+Error:nerrow
+Candidates:['narrow', 'marrow', 'morrow', 'narrows', 'sorrow']
+Correction:narrow
+they kill birds with their nerrow->they kill birds with their narrow
+hits =7
+
+Error:depe
+Candidates:['deep', 'type', 'keep', 'depth', 'were']
+Correction:deep
+make a depe hole->make a deep hole
+hits =8
+
+Error:gardon
+Candidates:['garden', 'gardens', 'gordon', 'pardon', 'carbon']
+Correction:gardens
+to tidy up his gardon->to tidy up his gardens
+hits =8
+
+Error:belu
+Candidates:['below', 'blue', 'bell', 'blew', 'ball']
+Correction:blew
+the wind belu the leaves->the wind blew the leaves
+hits =9
+
+Error:j.
+Candidates:['j', 'joy', 'job', 'go', 'jug']
+Correction:j
+mr j. was very angray->mr j was very angray
+hits =9
+
+Error:leavs
+Candidates:['leaves', 'laws', 'leave', 'least', 'leads']
+Correction:leaves
+garden full of leavs->garden full of leaves
+hits =10
+
+Error:manger
+Candidates:['manager', 'managers', 'danger', 'managed', 'manger']
+Correction:manger
+talk to the manger->talk to the manger
+hits =10
+
+Error:throw
+Candidates:['throw', 'thrown', 'throws', 'threw', 'show']
+Correction:show
+they throw a aero->they show a aero
+hits =10
+
+Error:ansion
+Candidates:['union', 'action', 'unison', 'onion', 'ention']
+Correction:action
+an ansion method of hunting->an action method of hunting
+hits =10
+
+Precision:0.5
+FalseAlarm:0.5
+Error:strang
+Candidates:['strange', 'strong', 'staring', 'sprang', 'string', 'strings', 'spring', 'storing', 'strand', 'stand']
+Correction:strange
+i felt very strang->i felt very strange
+hits =1
+
+Error:brake
+Candidates:['break', 'broken', 'broke', 'brake', 'bark', 'bracket', 'baker', 'breaks', 'braced', 'barked', 'brake']
+Correction:break
+at brake time->at break time
+hits =2
+
+Error:brack
+Candidates:['black', 'back', 'branch', 'brick', 'bricks', 'breach', 'brisk', 'block', 'pack', 'backs']
+Correction:block
+when the brack was finished->when the block was finished
+hits =2
+
+Error:weanter
+Candidates:['water', 'wanted', 'winter', 'wander', 'weaker', 'weather', 'walter', 'venter', 'waiter', 'decanter']
+Correction:winter
+in the weanter when it was snowing->in the winter when it was snowing
+hits =3
+
+Error:gost
+Candidates:['just', 'most', 'ghost', 'got', 'cost', 'gross', 'must', 'coast', 'guest', 'god']
+Correction:ghost
+i thought it was a gost->i thought it was a ghost
+hits =4
+
+Error:expect
+Candidates:['expect', 'expects', 'aspect', 'except', 'expert', 'export', 'extent', 'experts', 'expend', 'expel']
+Correction:except
+everything expect the houses->everything except the houses
+hits =5
+
+Error:steped
+Candidates:['stepped', 'stooped', 'striped', 'stupid', 'stopped', 'shaped', 'steps', 'stephen', 'stated', 'stared']
+Correction:stepped
+when i first steped->when i first stepped
+hits =6
+
+Error:exclation
+Candidates:['exclusion', 'excavation', 'exaltation', 'exultation', 'exudation', 'exception', 'expiation', 'elation', 'emulation', 'epilation']
+Correction:excavation
+i was on an exclation->i was on an excavation
+hits =6
+
+Error:noicey
+Candidates:['notice', 'noticed', 'noise', 'nicely', 'notices', 'voice', 'novices', 'voices', 'novice', 'nice']
+Correction:notices
+i noicey that i was on this thing->i notices that i was on this thing
+hits =6
+
+Error:fance
+Candidates:['france', 'face', 'fancy', 'fancies', 'faces', 'fancied', 'fence', 'fiancee', 'faced', 'force']
+Correction:fence
+through the fance->through the fence
+hits =7
+
+Error:kille
+Candidates:['killed', 'kill', 'hill', 'till', 'killer', 'tilled', 'hills', 'kindle', 'kills', 'tiller']
+Correction:kill
+the hunters kille them->the hunters kill them
+hits =8
+
+Error:nerrow
+Candidates:['narrow', 'marrow', 'morrow', 'narrows', 'sorrow', 'borrow', 'neuro', 'terror', 'negro', 'furrow']
+Correction:borrow
+they kill birds with their nerrow->they kill birds with their borrow
+hits =8
+
+Error:depe
+Candidates:['deep', 'type', 'keep', 'depth', 'were', 'dip', 'weep', 'debt', 'pipe', 'kept']
+Correction:deep
+make a depe hole->make a deep hole
+hits =9
+
+Error:gardon
+Candidates:['garden', 'gardens', 'gordon', 'pardon', 'carbon', 'cordon', 'garcon', 'pardons', 'carron', 'gallon']
+Correction:gardens
+to tidy up his gardon->to tidy up his gardens
+hits =9
+
+Error:belu
+Candidates:['below', 'blue', 'bell', 'blew', 'ball', 'bill', 'begun', 'be', 'blur', 'well']
+Correction:blew
+the wind belu the leaves->the wind blew the leaves
+hits =10
+
+Error:j.
+Candidates:['j', 'joy', 'job', 'go', 'jug', 'to', 'he', 'jew', 'do', 'jem']
+Correction:j
+mr j. was very angray->mr j was very angray
+hits =10
+
+Error:leavs
+Candidates:['leaves', 'laws', 'leave', 'least', 'leads', 'legs', 'lads', 'leaps', 'loans', 'means']
+Correction:leaves
+garden full of leavs->garden full of leaves
+hits =11
+
+Error:manger
+Candidates:['manager', 'managers', 'danger', 'managed', 'manger', 'manage', 'finger', 'dangers', 'monger', 'matter']
+Correction:manger
+talk to the manger->talk to the manger
+hits =11
+
+Error:aero
+Candidates:['area', 'are', 'were', 'air', 'her', 'aaron', 'hero', 'here', 'apron', 'also']
+Correction:hero
+they throw a aero->they throw a hero
+hits =11
+
+Error:ansion
+Candidates:['union', 'action', 'unison', 'onion', 'ention', 'anton', 'anon', 'arson', 'ensign', 'angio']
+Correction:action
+an ansion method of hunting->an action method of hunting
+hits =11
+
+Precision:0.55
+FalseAlarm:0.45
+Error:strang
+Candidates:['strange', 'strong', 'staring', 'sprang', 'string', 'strings', 'spring', 'storing', 'strand', 'stand']
+Correction:strange
+i felt very strang->i felt very strange
+hits =1
+
+Error:brake
+Candidates:['break', 'broken', 'broke', 'brake', 'bark', 'bracket', 'baker', 'breaks', 'braced', 'barked', 'brake']
+Correction:break
+at brake time->at break time
+hits =2
+
+Error:brack
+Candidates:['black', 'back', 'branch', 'brick', 'bricks', 'breach', 'brisk', 'block', 'pack', 'backs']
+Correction:block
+when the brack was finished->when the block was finished
+hits =2
+
+Error:weanter
+Candidates:['water', 'wanted', 'winter', 'wander', 'weaker', 'weather', 'walter', 'venter', 'waiter', 'decanter']
+Correction:winter
+in the weanter when it was snowing->in the winter when it was snowing
+hits =3
+
+Error:gost
+Candidates:['just', 'most', 'ghost', 'got', 'cost', 'gross', 'must', 'coast', 'guest', 'god']
+Correction:ghost
+i thought it was a gost->i thought it was a ghost
+hits =4
+
+Error:expect
+Candidates:['expect', 'expects', 'aspect', 'except', 'expert', 'export', 'extent', 'experts', 'expend', 'expel']
+Correction:except
+everything expect the houses->everything except the houses
+hits =5
+
+Error:steped
+Candidates:['stepped', 'stooped', 'striped', 'stupid', 'stopped', 'shaped', 'steps', 'stephen', 'stated', 'stared']
+Correction:stepped
+when i first steped->when i first stepped
+hits =6
+
+Error:exclation
+Candidates:['exclusion', 'excavation', 'exaltation', 'exultation', 'exudation', 'exception', 'expiation', 'elation', 'emulation', 'epilation']
+Correction:excavation
+i was on an exclation->i was on an excavation
+hits =6
+
+Error:noicey
+Candidates:['notice', 'noticed', 'noise', 'nicely', 'notices', 'voice', 'novices', 'voices', 'novice', 'nice']
+Correction:notices
+i noicey that i was on this thing->i notices that i was on this thing
+hits =6
+
+Error:fance
+Candidates:['france', 'face', 'fancy', 'fancies', 'faces', 'fancied', 'fence', 'fiancee', 'faced', 'force']
+Correction:fence
+through the fance->through the fence
+hits =7
+
+Error:kille
+Candidates:['killed', 'kill', 'hill', 'till', 'killer', 'tilled', 'hills', 'kindle', 'kills', 'tiller']
+Correction:kill
+the hunters kille them->the hunters kill them
+hits =8
+
+Error:nerrow
+Candidates:['narrow', 'marrow', 'morrow', 'narrows', 'sorrow', 'borrow', 'neuro', 'terror', 'negro', 'furrow']
+Correction:borrow
+they kill birds with their nerrow->they kill birds with their borrow
+hits =8
+
+Error:depe
+Candidates:['deep', 'type', 'keep', 'depth', 'were', 'dip', 'weep', 'debt', 'pipe', 'kept']
+Correction:deep
+make a depe hole->make a deep hole
+hits =9
+
+Error:gardon
+Candidates:['garden', 'gardens', 'gordon', 'pardon', 'carbon', 'cordon', 'garcon', 'pardons', 'carron', 'gallon']
+Correction:gardens
+to tidy up his gardon->to tidy up his gardens
+hits =9
+
+Error:belu
+Candidates:['below', 'blue', 'bell', 'blew', 'ball', 'bill', 'begun', 'be', 'blur', 'well']
+Correction:blew
+the wind belu the leaves->the wind blew the leaves
+hits =10
+
+Error:j.
+Candidates:['j', 'joy', 'job', 'go', 'jug', 'to', 'he', 'jew', 'do', 'jem']
+Correction:j
+mr j. was very angray->mr j was very angray
+hits =10
+
+Error:leavs
+Candidates:['leaves', 'laws', 'leave', 'least', 'leads', 'legs', 'lads', 'leaps', 'loans', 'means']
+Correction:leaves
+garden full of leavs->garden full of leaves
+hits =11
+
+Error:manger
+Candidates:['manager', 'managers', 'danger', 'managed', 'manger', 'manage', 'finger', 'dangers', 'monger', 'matter']
+Correction:manger
+talk to the manger->talk to the manger
+hits =11
+
+Error:aero
+Candidates:['area', 'are', 'were', 'air', 'her', 'aaron', 'hero', 'here', 'apron', 'also']
+Correction:hero
+they throw a aero->they throw a hero
+hits =11
+
+Error:ansion
+Candidates:['union', 'action', 'unison', 'onion', 'ention', 'anton', 'anon', 'arson', 'ensign', 'angio']
+Correction:action
+an ansion method of hunting->an action method of hunting
+hits =11
+
+Precision:0.55
+FalseAlarm:0.45
+Error:strang
+Candidates:['strange', 'strong', 'staring', 'sprang', 'string', 'strings', 'spring', 'storing', 'strand', 'stand']
+Correction:strange
+i felt very strang->i felt very strange
+hits =1
+
+Error:brake
+Candidates:['break', 'broken', 'broke', 'brake', 'bark', 'bracket', 'baker', 'breaks', 'braced', 'barked', 'brake']
+Correction:break
+at brake time->at break time
+hits =2
+
+Error:brack
+Candidates:['black', 'back', 'branch', 'brick', 'bricks', 'breach', 'brisk', 'block', 'pack', 'backs']
+Correction:block
+when the brack was finished->when the block was finished
+hits =2
+
+Error:weanter
+Candidates:['water', 'wanted', 'winter', 'wander', 'weaker', 'weather', 'walter', 'venter', 'waiter', 'decanter']
+Correction:water
+in the weanter when it was snowing->in the water when it was snowing
+hits =2
+
+Error:gost
+Candidates:['just', 'most', 'ghost', 'got', 'cost', 'gross', 'must', 'coast', 'guest', 'god']
+Correction:most
+i thought it was a gost->i thought it was a most
+hits =2
+
+Error:expect
+Candidates:['expect', 'expects', 'aspect', 'except', 'expert', 'export', 'extent', 'experts', 'expend', 'expel']
+Correction:except
+everything expect the houses->everything except the houses
+hits =3
+
+Error:steped
+Candidates:['stepped', 'stooped', 'striped', 'stupid', 'stopped', 'shaped', 'steps', 'stephen', 'stated', 'stared']
+Correction:stepped
+when i first steped->when i first stepped
+hits =4
+
+Error:exclation
+Candidates:['exclusion', 'excavation', 'exaltation', 'exultation', 'exudation', 'exception', 'expiation', 'elation', 'emulation', 'epilation']
+Correction:exception
+i was on an exclation->i was on an exception
+hits =4
+
+Error:noicey
+Candidates:['notice', 'noticed', 'noise', 'nicely', 'notices', 'voice', 'novices', 'voices', 'novice', 'nice']
+Correction:noticed
+i noicey that i was on this thing->i noticed that i was on this thing
+hits =5
+
+Error:fance
+Candidates:['france', 'face', 'fancy', 'fancies', 'faces', 'fancied', 'fence', 'fiancee', 'faced', 'force']
+Correction:fence
+through the fance->through the fence
+hits =6
+
+Error:kille
+Candidates:['killed', 'kill', 'hill', 'till', 'killer', 'tilled', 'hills', 'kindle', 'kills', 'tiller']
+Correction:killed
+the hunters kille them->the hunters killed them
+hits =6
+
+Error:nerrow
+Candidates:['narrow', 'marrow', 'morrow', 'narrows', 'sorrow', 'borrow', 'neuro', 'terror', 'negro', 'furrow']
+Correction:narrow
+they kill birds with their nerrow->they kill birds with their narrow
+hits =6
+
+Error:depe
+Candidates:['deep', 'type', 'keep', 'depth', 'were', 'dip', 'weep', 'debt', 'pipe', 'kept']
+Correction:deep
+make a depe hole->make a deep hole
+hits =7
+
+Error:gardon
+Candidates:['garden', 'gardens', 'gordon', 'pardon', 'carbon', 'cordon', 'garcon', 'pardons', 'carron', 'gallon']
+Correction:garden
+to tidy up his gardon->to tidy up his garden
+hits =8
+
+Error:belu
+Candidates:['below', 'blue', 'bell', 'blew', 'ball', 'bill', 'begun', 'be', 'blur', 'well']
+Correction:blew
+the wind belu the leaves->the wind blew the leaves
+hits =9
+
+Error:j.
+Candidates:['j', 'joy', 'job', 'go', 'jug', 'to', 'he', 'jew', 'do', 'jem']
+Correction:he
+mr j. was very angray->mr he was very angray
+hits =9
+
+Error:leavs
+Candidates:['leaves', 'laws', 'leave', 'least', 'leads', 'legs', 'lads', 'leaps', 'loans', 'means']
+Correction:leaves
+garden full of leavs->garden full of leaves
+hits =10
+
+Error:manger
+Candidates:['manager', 'managers', 'danger', 'managed', 'manger', 'manage', 'finger', 'dangers', 'monger', 'matter']
+Correction:manager
+talk to the manger->talk to the manager
+hits =11
+
+Error:aero
+Candidates:['area', 'are', 'were', 'air', 'her', 'aaron', 'hero', 'here', 'apron', 'also']
+Correction:hero
+they throw a aero->they throw a hero
+hits =11
+
+Error:ansion
+Candidates:['union', 'action', 'unison', 'onion', 'ention', 'anton', 'anon', 'arson', 'ensign', 'angio']
+Correction:action
+an ansion method of hunting->an action method of hunting
+hits =11
+
+Precision:0.55
+FalseAlarm:0.45
+Error:strang
+Candidates:['strange', 'strong', 'staring', 'sprang', 'string', 'strings', 'spring', 'storing', 'strand', 'stand']
+Correction:strange
+i felt very strang->i felt very strange
+hits =1
+
+Error:brake
+Candidates:['break', 'broken', 'broke', 'brake', 'bark', 'bracket', 'baker', 'breaks', 'braced', 'barked', 'brake']
+Correction:break
+at brake time->at break time
+hits =2
+
+Error:brack
+Candidates:['black', 'back', 'branch', 'brick', 'bricks', 'breach', 'brisk', 'block', 'pack', 'backs']
+Correction:block
+when the brack was finished->when the block was finished
+hits =2
+
+Error:weanter
+Candidates:['winter', 'water', 'wanted', 'wander', 'weaker', 'weather', 'walter', 'venter', 'waiter', 'decanter']
+Correction:winter
+in the weanter when it was snowing->in the winter when it was snowing
+hits =3
+
+Error:gost
+Candidates:['just', 'most', 'ghost', 'got', 'cost', 'gross', 'must', 'coast', 'guest', 'god']
+Correction:ghost
+i thought it was a gost->i thought it was a ghost
+hits =4
+
+Error:expect
+Candidates:['expect', 'expects', 'aspect', 'exact', 'except', 'expert', 'export', 'extent', 'experts', 'expend']
+Correction:except
+everything expect the houses->everything except the houses
+hits =5
+
+Error:steped
+Candidates:['stepped', 'stooped', 'striped', 'stupid', 'stopped', 'shaped', 'steps', 'stephen', 'stated', 'stared']
+Correction:stepped
+when i first steped->when i first stepped
+hits =6
+
+Error:exclation
+Candidates:['exclusion', 'excavation', 'exaltation', 'exultation', 'exudation', 'exception', 'expiation', 'elation', 'emulation', 'epilation']
+Correction:excavation
+i was on an exclation->i was on an excavation
+hits =6
+
+Error:noicey
+Candidates:['notice', 'noticed', 'noise', 'nicely', 'notices', 'voice', 'novices', 'voices', 'novice', 'nice']
+Correction:notices
+i noicey that i was on this thing->i notices that i was on this thing
+hits =6
+
+Error:fance
+Candidates:['france', 'face', 'fancy', 'fancies', 'faces', 'fancied', 'fence', 'fiancee', 'faced', 'force']
+Correction:fence
+through the fance->through the fence
+hits =7
+
+Error:strang
+Candidates:['strange', 'strong', 'staring', 'sprang', 'string', 'strings', 'spring', 'storing', 'strand', 'stand']
+Correction:strange
+i felt very strang->i felt very strange
+hits =1
+
+Error:brake
+Candidates:['break', 'broken', 'broke', 'brake', 'bark', 'bracket', 'baker', 'breaks', 'braced', 'barked', 'brake']
+Correction:break
+at brake time->at break time
+hits =2
+
+Error:brack
+Candidates:['black', 'back', 'branch', 'brick', 'bricks', 'breach', 'brisk', 'block', 'pack', 'backs']
+Correction:block
+when the brack was finished->when the block was finished
+hits =2
+
+Error:weanter
+Candidates:['winter', 'water', 'wanted', 'wander', 'weaker', 'weather', 'walter', 'venter', 'waiter', 'decanter']
+Correction:winter
+in the weanter when it was snowing->in the winter when it was snowing
+hits =3
+
+Error:gost
+Candidates:['just', 'most', 'ghost', 'got', 'cost', 'gross', 'must', 'coast', 'guest', 'god']
+Correction:ghost
+i thought it was a gost->i thought it was a ghost
+hits =4
+
+Error:expect
+Candidates:['expect', 'expects', 'aspect', 'exact', 'except', 'expert', 'export', 'extent', 'experts', 'expend']
+Correction:except
+everything expect the houses->everything except the houses
+hits =5
+
+Error:steped
+Candidates:['stepped', 'stooped', 'striped', 'stupid', 'stopped', 'shaped', 'steps', 'stephen', 'stated', 'stared']
+Correction:stepped
+when i first steped->when i first stepped
+hits =6
+
+Error:exclation
+Candidates:['exclusion', 'excavation', 'exaltation', 'exultation', 'exudation', 'exception', 'expiation', 'elation', 'emulation', 'epilation']
+Correction:excavation
+i was on an exclation->i was on an excavation
+hits =6
+
+Error:noicey
+Candidates:['notice', 'noticed', 'noise', 'nicely', 'notices', 'voice', 'novices', 'voices', 'novice', 'nice']
+Correction:notices
+i noicey that i was on this thing->i notices that i was on this thing
+hits =6
+
+Error:fance
+Candidates:['france', 'face', 'fancy', 'fancies', 'faces', 'fancied', 'fence', 'fiancee', 'faced', 'force']
+Correction:fence
+through the fance->through the fence
+hits =7
+
+Error:kille
+Candidates:['killed', 'kill', 'hill', 'till', 'killer', 'tilled', 'hills', 'kindle', 'kills', 'tiller']
+Correction:kill
+the hunters kille them->the hunters kill them
+hits =8
+
+Error:nerrow
+Candidates:['narrow', 'marrow', 'morrow', 'narrows', 'sorrow', 'borrow', 'neuro', 'terror', 'negro', 'furrow']
+Correction:borrow
+they kill birds with their nerrow->they kill birds with their borrow
+hits =8
+
+Error:depe
+Candidates:['deep', 'type', 'keep', 'depth', 'were', 'dip', 'weep', 'debt', 'pipe', 'kept']
+Correction:deep
+make a depe hole->make a deep hole
+hits =9
+
+Error:gardon
+Candidates:['garden', 'gardens', 'gordon', 'pardon', 'carbon', 'cordon', 'garcon', 'pardons', 'carron', 'gallon']
+Correction:gardens
+to tidy up his gardon->to tidy up his gardens
+hits =9
+
+Error:belu
+Candidates:['below', 'blue', 'bell', 'blew', 'ball', 'bill', 'begun', 'be', 'blur', 'well']
+Correction:blew
+the wind belu the leaves->the wind blew the leaves
+hits =10
+
+Error:strang
+Candidates:['strange', 'strong', 'staring', 'sprang', 'string', 'strings', 'spring', 'storing', 'strand', 'stand']
+Correction:strange
+i felt very strang->i felt very strange
+hits =1
+
+Error:brake
+Candidates:['break', 'broken', 'broke', 'brake', 'bark', 'bracket', 'baker', 'breaks', 'braced', 'barked', 'brake']
+Correction:break
+at brake time->at break time
+hits =2
+
+Error:brack
+Candidates:['black', 'back', 'branch', 'brick', 'bricks', 'breach', 'brisk', 'block', 'pack', 'backs']
+Correction:block
+when the brack was finished->when the block was finished
+hits =2
+
+Error:weanter
+Candidates:['water', 'wanted', 'winter', 'wander', 'weaker', 'weather', 'walter', 'venter', 'waiter', 'decanter']
+Correction:winter
+in the weanter when it was snowing->in the winter when it was snowing
+hits =3
+
+Error:gost
+Candidates:['just', 'most', 'ghost', 'got', 'cost', 'gross', 'must', 'get', 'coast', 'guest']
+Correction:ghost
+i thought it was a gost->i thought it was a ghost
+hits =4
+
+Error:expect
+Candidates:['expect', 'expects', 'aspect', 'except', 'expert', 'export', 'extent', 'experts', 'expend', 'expel']
+Correction:except
+everything expect the houses->everything except the houses
+hits =5
+
+Error:steped
+Candidates:['stepped', 'stooped', 'striped', 'stupid', 'stopped', 'shaped', 'steps', 'stephen', 'stated', 'stared']
+Correction:stepped
+when i first steped->when i first stepped
+hits =6
+
+Error:exclation
+Candidates:['exclusion', 'excavation', 'exaltation', 'exultation', 'exudation', 'exception', 'expiation', 'elation', 'emulation', 'epilation']
+Correction:excavation
+i was on an exclation->i was on an excavation
+hits =6
+
+Error:noicey
+Candidates:['notice', 'noticed', 'noise', 'nicely', 'notices', 'voice', 'novices', 'voices', 'novice', 'nice']
+Correction:notices
+i noicey that i was on this thing->i notices that i was on this thing
+hits =6
+
+Error:fance
+Candidates:['france', 'face', 'fancy', 'fancies', 'faces', 'fancied', 'fence', 'fiancee', 'faced', 'force']
+Correction:fence
+through the fance->through the fence
+hits =7
+
+Error:kille
+Candidates:['killed', 'kill', 'hill', 'till', 'killer', 'tilled', 'hills', 'kindle', 'kills', 'tiller']
+Correction:kill
+the hunters kille them->the hunters kill them
+hits =8
+
+Error:nerrow
+Candidates:['narrow', 'marrow', 'morrow', 'narrows', 'sorrow', 'borrow', 'neuro', 'terror', 'negro', 'furrow']
+Correction:borrow
+they kill birds with their nerrow->they kill birds with their borrow
+hits =8
+
+Error:depe
+Candidates:['deep', 'type', 'keep', 'depth', 'were', 'dip', 'weep', 'debt', 'pipe', 'kept']
+Correction:deep
+make a depe hole->make a deep hole
+hits =9
+
+Error:gardon
+Candidates:['garden', 'gardens', 'gordon', 'pardon', 'carbon', 'cordon', 'garcon', 'pardons', 'carron', 'gallon']
+Correction:gardens
+to tidy up his gardon->to tidy up his gardens
+hits =9
+
+Error:belu
+Candidates:['below', 'blue', 'bell', 'blew', 'ball', 'bill', 'begun', 'be', 'blur', 'well']
+Correction:blew
+the wind belu the leaves->the wind blew the leaves
+hits =10
+
+Error:j.
+Candidates:['j', 'joy', 'job', 'go', 'jug', 'to', 'he', 'jew', 'do', 'jem']
+Correction:j
+mr j. was very angray->mr j was very angray
+hits =10
+
+Error:leavs
+Candidates:['leaves', 'laws', 'leave', 'leads', 'lads', 'leaps', 'loans', 'means', 'learns', 'lead']
+Correction:leaves
+garden full of leavs->garden full of leaves
+hits =11
+
+Error:manger
+Candidates:['manager', 'managers', 'danger', 'managed', 'manger', 'manage', 'finger', 'dangers', 'monger', 'matter']
+Correction:manger
+talk to the manger->talk to the manger
+hits =11
+
+Error:aero
+Candidates:['area', 'are', 'were', 'air', 'her', 'aaron', 'hero', 'here', 'apron', 'also']
+Correction:hero
+they throw a aero->they throw a hero
+hits =11
+
+Error:ansion
+Candidates:['union', 'action', 'unison', 'onion', 'ention', 'anon', 'arson', 'ensign', 'anton', 'angio']
+Correction:action
+an ansion method of hunting->an action method of hunting
+hits =11
+
+Precision:0.55
+FalseAlarm:0.45
